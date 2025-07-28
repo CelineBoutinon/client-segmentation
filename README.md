@@ -1,4 +1,4 @@
-![Logo](logo.png)
+![Logo](logo.PNG)
 
 # SEGMENTER LES CLIENTS D'UN SITE D'E-COMMERCE
 
