@@ -16,7 +16,7 @@ Les données-source sont disponibles sur https://www.kaggle.com/datasets/olistbr
 
 * **fichiers :**
   - **queries.sql :** code sql permettant l'exécution de quelques requêtes d'exploration préliminaire de la base de données
-	- **notebook_1.ipynb :** code Python permettant l'import des fichiers .csv, leur nettoyage & jointure et l'analyse exploratoire des données
+  - **notebook_1.ipynb :** code Python permettant l'import des fichiers .csv, leur nettoyage & jointure et l'analyse exploratoire des données
   - **notebook_2.ipynb :** code Python permettant la modélisation de la segmentation clients
   - **notebook_3.ipynb :** code Python permettant le suivi du model drift
   - **slideshow.pdf :** diapositives de présentation du projet
