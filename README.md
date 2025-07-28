@@ -39,7 +39,7 @@ Voir requirements.txt pour la liste complète des librairies & packages.
   
 
 
-MENTIONS LÉGALES / MENCÕES LEGAIS
+## MENTIONS LÉGALES / MENCÕES LEGAIS
 
 Cette étude a été produite par CelineBoutinon sur la base du jeu de données Olist sur Kaggle (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) contenant des données sur les commandes, les avis, les vendeurs, les produits et les clients. Le jeu de données est fourni « tel quel » par Olist et est hébergé sur Kaggle à des fins de recherche et d’éducation ; son utilisation est soumise aux conditions générales de Kaggle ainsi qu’aux termes de la license CC BY-NC-SA 4.0 disponible sur https://creativecommons.org/licenses/by-nc-sa/4.0/. Ces données sont fournies « en l’état » et ni Kaggle ni Olist ne donne aucune garantie, expresse ou implicite, quant à l’exactitude, l’exhaustivité, l’actualité ou la fiabilité de ces données. Ni Kaggle ni Olist n’assume aucune responsabilité pour les erreurs dans l’information ni pour toute utilisation des informations fournies. Les utilisateurs des données sont responsables de l’utilisation qu’ils en font et les analyses présentées ici restent la responsabilité seule de l'auteure. Pour plus de détails, veuillez consulter les conditions d’utilisation sur https://www.kaggle.com/terms et https://www.kaggle.com/docs/datasets#licensing.
 
